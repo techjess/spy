@@ -1,0 +1,13 @@
+{
+  "base_url": "/user/jgarcia/",
+  "hostname": "127.0.0.1",
+  "password": false,
+  "pid": 52,
+  "port": 54373,
+  "root_dir": "/home/jgarcia",
+  "secure": false,
+  "sock": "",
+  "token": "79ba107a07d74689bb82613d4dff1c7d",
+  "url": "http://127.0.0.1:54373/user/jgarcia/",
+  "version": "2.14.1"
+}
